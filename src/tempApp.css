@@ -1,0 +1,27 @@
+main,
+aside {
+    border: solid red;
+    display: inline-block;
+}
+
+
+/****** Profile.js ******/
+
+.Profile img {
+    border: red solid;
+    width: 200px;
+}
+
+hr {
+    width: 90%;
+}
+
+.Profile .socials {
+    list-style: none;
+}
+
+.Profile h1 {
+    font-size: 24px;
+    margin-bottom: 0;
+    font-weight: 700;
+}

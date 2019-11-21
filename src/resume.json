@@ -1,0 +1,90 @@
+ {
+  "basics": {
+    "name": "Thandolwethu L. Njili",
+    "label": "Junior Software Developer",
+    "picture": "https://bit.ly/2YRzWP2",
+    "email": "thandolnjili@gmail.com",
+    "phone": "+27(0) 84 990 1697",
+    "website": "www.findthando.co.za",
+    "summary": "Over the past 18 years I have continuously challenged myself with new languages, frameworks and methodologies. My core languages have always been html, css & javascript but I have also worked as a full stack php developer building both bespoke CMS solutions and small business applications. My current role at IAG is Front End Developer (or Software Engineer as IAG prefer to label us) for a small React team and have been developing with React and Redux for the past 3 years.",
+    "location": {
+      "address": "Wynberg",
+      "postalCode": "7800",
+      "city": "Cape Town",
+      "countryCode": "RSA",
+      "region": "WC"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "thandolnjili",
+        "url": ""
+      },
+      {
+        "network": "Github",
+        "username": "ThandoLNJili",
+        "url": ""
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Atomic Marketing",
+      "position": "Bosch Powertools Promoter",
+      "website": "https://www.atomicmarketing.co.za/",
+      "startDate": "2019-06",
+      "endDate": "",
+      "summary": "I am currently working as a Front End Developer on a small React team building Insurance applications and I am across multiple applications that have been developed using our new technology stack. IAG are keen to utilise the latest technologies and we have had great success using React/Redux running on a Node Express server and using an API backend architecture (via APIGEE) to access the various IAG systems. I have also been a key part of a team developing an in-house Design System called Chroma, this is a platform and framework agnostic component library. We have then built a React component library on top of this system which is used for all IAG Customer Labs applications. As part of this team I have also been responsible for setting up a CI/CD pipeline using Github/CircleCI/Heroku/NPM & AWS.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Dale College Boys' High School",
+      "studyType": "High School",
+      "startDate": "2012-01",
+      "endDate": "2016-11",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Front End Development",
+      "level": "Beginner",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "jQuery",
+        "React",
+        "Babel",
+        "Heroku",
+        "Bootstrap",
+        "Node",
+        "Git",
+        "Responsive"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "IsiXhosa",
+      "fluency": "Native speaker"
+    },
+    {
+        "language": "English",
+        "fluency": "Excellent"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Gaming",
+      "keywords": [
+          "FPS",
+          "Open world",
+          "Sandbox"
+    ]
+    }
+  ],
+  "references": []
+}
