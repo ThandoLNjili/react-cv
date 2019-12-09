@@ -52,7 +52,7 @@ const CV = () => {
 
             {/* education level */}
             <section className='education'>
-                <p className='heading'><i className='fa fa-lg fa-mortar-board' />EDUCATION</p>
+                <p className='heading'><i className='fa fa-lg fa-mortar-board' />EDUCATION and training</p>
                 <div>
                     <p className='cv-title'>Matric (NQF4)</p>
                     <p>Dale College Boys' High School</p>
