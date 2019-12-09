@@ -57,7 +57,7 @@ const CV = () => {
                     <p className='cv-title'>Matric (NQF4)</p>
                     <p>Dale College Boys' High School</p>
                     <p className='cv-title'>Coding Bootcamp</p>
-                    <p>Life Choices Academy/CoGrammar</p>
+                    <p>Life Choices Academy powered by CoGrammar</p>
                 </div>
             </section>
         </div>
