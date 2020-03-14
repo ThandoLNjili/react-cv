@@ -8,7 +8,7 @@ const Profile = () => {
     return (
         <div className='Profile'>
             {/* profile picture */}
-            <div className='user-img text-center'><img role='presentation' className='rounded-circle' src={profilePicture} width='auto' height='200'></img></div>
+            <div className='user-img text-center'><img role='presentation' className='rounded-circle' src={profilePicture} width='auto' height='200' alt=''></img></div>
             {/* my name */}
             <p className='text-center name'>Thandolwethu Njili</p>
             {/* occupation */}
@@ -23,7 +23,7 @@ const Profile = () => {
             <div className='divider' />
             {/* profile links */}
             <ul className='profile-links list-inline text-center'>
-                <li><a className='fa fa-twitter fa-2x' target='blank' href='https://twitter.com' /></li>
+                <li><a className='fa fa-linkedin fa-2x' target='blank' href='https://www.linkedin.com/in/thandolwethu-njili-bb211562/' /></li>
                 <li><a className='fa fa-2x fa-github' target='blank' href='https://github.com/thandolnjili' /></li>
             </ul>
         </div>

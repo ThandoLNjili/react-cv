@@ -8,7 +8,7 @@ const CV = () => {
             <section className='about'>
                 <p className='heading'><i className='fa fa-lg fa-user' />ABOUT</p>
                 <div>
-                    Over the past two years I have learnt and been exposed to multiple programming languages that offer different perspectives of the industry and challenges which have allowed me to learn more about my strengths and weaknesses. I'm currently enrolled at The Life Choices Academy/CoGrammar coding course and my primary focus is web development. 
+                    Over the past three years I have learnt and been exposed to multiple programming languages that offer different perspectives of the industry and challenges which have allowed me to learn more about my strengths and weaknesses. I'm currently enrolled at WeThinkCode. 
                 </div>
             </section>
 
@@ -55,9 +55,11 @@ const CV = () => {
                 <p className='heading'><i className='fa fa-lg fa-mortar-board' />EDUCATION and training</p>
                 <div>
                     <p className='cv-title'>Matric (NQF4)</p>
-                    <p>Dale College Boys' High School</p>
+                    <p><a target='blank' href='https://dalecollege.co.za/'>Dale College Boys' High School</a></p>
                     <p className='cv-title'>Coding Bootcamp</p>
-                    <p>Life Choices Academy powered by CoGrammar</p>
+                    <p><a target='blank' href='https://www.lifechoices.co.za/'>Life Choices Academy powered by CoGrammar</a></p>
+                    <p className='cv-title'>Coding Academy</p>
+                    <p><a target='blank' href='https://www.wethinkcode.co.za/'>WeThinkCode</a></p>
                 </div>
             </section>
         </div>
